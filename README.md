@@ -33,13 +33,15 @@ The entire process takes 3-7 days depending on the candidate's availability:
 
 ### Scenario
 
-Not ready yet.
+Suppose that you're incrementally building a product and your current task is making changes on the existing
+web project in order to make it's dashboards drag & drop friendly by following the design that brought to you
+on Figma link.
 
 
 #### Sources
 
 - [Base Project Template on GitHub](https://github.com/datapadofficial/assessment-frontend-template)
-- [Designs on Figma]()
+- [Designs on Figma](https://www.figma.com/file/sQ9uhPftmJBg0YvbOtXozu/Frontend-Assessment?node-id=0%3A1)
 
 
 ### Technical Expectations
