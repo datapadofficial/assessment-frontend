@@ -37,6 +37,12 @@ Suppose that you're incrementally building a product and your current task is ma
 web project in order to make it's dashboards drag & drop friendly by following the design that brought to you
 on Figma link.
 
+You have two endpoints to get required data from the backend, however you need to ensure that they're mocked
+properly and you're working offline.
+
+- `/v2/workspaces/:workspaceId/dashboards/:dashboardId`
+- `/v2/workspaces/:workspaceId/metrics`
+
 
 #### Sources
 
