@@ -34,8 +34,8 @@ The entire process takes 3-7 days depending on the candidate's availability:
 ### Scenario
 
 Suppose that you're incrementally building a product and your current task is making changes on the existing
-web project in order to make it's dashboards drag & drop friendly by following the design that brought to you
-on Figma link.
+web project in order to make it's dashboards drag & drop friendly by following the design that is brought to
+you on Figma link.
 
 You have two endpoints to get required data from the backend, however you need to ensure that they're mocked
 properly and you're working offline.
